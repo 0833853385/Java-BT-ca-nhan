@@ -1,5 +1,5 @@
 # Java-BT-ca-nhan
-# Java BT Cá Nhân
+
 
 ## Giới thiệu
 Dự án này chứa các bài tập cá nhân viết bằng Java. Đây là một phần của quá trình học tập và thực hành Java, bao gồm nhiều bài tập và dự án nhỏ nhằm cải thiện kỹ năng lập trình Java.
